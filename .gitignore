@@ -2,3 +2,4 @@
 ./jupyter/python_book/*
 ./jupyter/.ipynb_checkpoints/
 ./jupyter/.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
